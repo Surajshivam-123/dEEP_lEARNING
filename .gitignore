@@ -1,0 +1,8 @@
+_MACOSX/
+.conda/
+.idea/
+.vs/
+aclImdb/
+DogsVsCat_data/
+glove.2024.wikigiga.100d/
+*.jpg
